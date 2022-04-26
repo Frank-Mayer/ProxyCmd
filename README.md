@@ -1,6 +1,6 @@
 # ProxyCmd
 
-Run commands on the proxy
+Run commands on the proxy (e.g. Bungeecord)
 
 ### Send player to server
 
