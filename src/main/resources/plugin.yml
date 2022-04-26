@@ -1,0 +1,13 @@
+name: ProxyCmd
+version: '${project.version}'
+main: io.rankmayer.proxycmd.Proxycmd
+api-version: 1.18
+prefix: '[ProxyCmd]'
+load: STARTUP
+authors: [ 'Frank-Mayer' ]
+description: Run commands on the proxy
+website: https://frank-mayer.io
+commands:
+  proxycmd:
+    description: execute command on proxy
+    permission: proxycmd.command
